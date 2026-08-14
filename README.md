@@ -28,3 +28,21 @@ A Generative AI application developed as part of a hackathon project. The applic
 ## Project
 
 This project was developed as a team-based hackathon project to explore Generative AI and audio-based applications.
+## Project Description
+
+This project combines Generative AI and Text-to-Speech technology to create an interactive audiobook creator. Users can generate or rewrite content using IBM Granite and convert the resulting text into audio narration.
+
+## How to Run
+
+1. Install the required Python libraries.
+2. Run the application using:
+
+```bash
+python audiobook_creator.py
+
+3. Open the Gradio interface in your browser.
+
+## Author
+
+Nivashini-hub
+python audiobook_creator.py
