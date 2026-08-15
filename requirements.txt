@@ -1,0 +1,10 @@
+transformers
+accelerate
+gradio
+gTTS
+pydub
+librosa
+noisereduce
+soundfile
+PyPDF2
+torch
